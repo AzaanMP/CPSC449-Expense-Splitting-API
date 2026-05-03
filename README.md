@@ -62,7 +62,7 @@ cd CPSC449-Expense-Splitting-API-master
 ./mvnw spring-boot:run
 ```
 
-##3. **Run with Docker**
+## **3. Run with Docker**
 ```text
 docker build -t expense-splitting-api .
 docker run -p 8080:8080 expense-splitting-api
