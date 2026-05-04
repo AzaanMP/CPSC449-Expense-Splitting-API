@@ -103,3 +103,9 @@ docker run -p 8080:8080 expense-splitting-api
 ```text
 ./mvnw test
 ```
+
+1) Register Endpoint
+   Registered 2 users
+   <img width="1782" height="1003" alt="Screenshot 2026-05-02 233605" src="https://github.com/user-attachments/assets/18006f62-7af6-44ff-90d1-af01ef139051" />
+  
+   
