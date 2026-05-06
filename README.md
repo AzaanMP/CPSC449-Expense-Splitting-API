@@ -134,12 +134,15 @@ docker run -p 8080:8080 expense-splitting-api
 ##   **7) Get One Expense Endpoint**
    <img width="1727" height="953" alt="Screenshot 2026-05-03 172533" src="https://github.com/user-attachments/assets/31eb9897-2551-474b-b257-caba325d1e30" />
 
-#   **8) Update Expense Endpoint**
+##   **8) Update Expense Endpoint**
    <img width="1672" height="899" alt="Screenshot 2026-05-03 172755" src="https://github.com/user-attachments/assets/836f44db-83a8-4487-83df-f3f27f6a50cc" />
 
-#   **9) Delete Expense Endpoint**
+##   **9) Delete Expense Endpoint**
    <img width="1696" height="898" alt="Screenshot 2026-05-03 172831" src="https://github.com/user-attachments/assets/6f2489fa-d768-456f-a5c4-fe05d80d7935" />
 
+# 📷 Video
+
+Link: https://youtu.be/PRsRyR_OXKw
 
 
 
